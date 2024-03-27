@@ -1,0 +1,43 @@
+
+
+# ListADocument
+
+## Enum
+
+
+* `USPASSPORT` (value: `"USPassport"`)
+
+* `FOREIGNPASSPORTWITHI551STAMP` (value: `"ForeignPassportWithI551stamp"`)
+
+* `PERMANENTRESIDENTORALIENREGISTRATIONI551` (value: `"PermanentResidentOrAlienRegistrationI551"`)
+
+* `EMPLOYMENTAUTHORISATIONDOCI766` (value: `"EmploymentAuthorisationDocI766"`)
+
+* `FOREIGNPASSPORTANDI94ORI94A` (value: `"ForeignPassportAndI94orI94A"`)
+
+* `PASSPORTFROMFSMORRMI` (value: `"PassportFromFSMorRMI"`)
+
+* `DOCSFROMFSMORRMI` (value: `"DocsFromFSMorRMI"`)
+
+* `I94WITHTEMPI551ORREFUGEEADMISSIONSTAMP` (value: `"I94withTempI551orRefugeeAdmissionStamp"`)
+
+* `FOREIGNPASSPORTORI94ORI94AOR120ORDS2019` (value: `"ForeignPassportorI94orI94AOR120orDS2019"`)
+
+* `RECEIPTREPLACEMENTPERMANENTRESIDENTCARDFORMI551` (value: `"ReceiptReplacementPermanentResidentCardFormI551"`)
+
+* `RECEIPTREPLACEMENTEADFORMI766` (value: `"ReceiptReplacementEADFormI766"`)
+
+* `RECEIPTFOREIGNPASSPORTORI94OR120ORDS2019` (value: `"ReceiptForeignPassportorI94or120orDS2019"`)
+
+* `RECEIPTFSMPASSPORTWITHFORMI94ORI94ORI94A` (value: `"ReceiptFSMPassportWithFormI94orI94orI94A"`)
+
+* `RECEIPTRMIPASSPORTWITHFORMI94ORI94ORI94A` (value: `"ReceiptRMIPassportWithFormI94orI94orI94A"`)
+
+* `RECEIPTUSPASSPORTORUSPASSPORTCARD` (value: `"ReceiptUSPassportOrUSPassportCard"`)
+
+* `RECEIPTI94PERMANENTRESIDENTCARDI551STAMPANDPHOTO` (value: `"ReceiptI94PermanentResidentCardI551StampAndPhoto"`)
+
+* `RECEIPTI94WITHRENOTATIONORREFUGEESTAMP` (value: `"ReceiptI94withRENotationOrRefugeeStamp"`)
+
+
+
